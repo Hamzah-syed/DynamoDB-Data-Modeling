@@ -1,6 +1,6 @@
 # DynamoDB Datamodeling
 ## Introduction 
-In this Repo we understand the different methods to to modal relational data in to the dynamodb table
+In this Repo we understand the different methods to modal relational data in to the dynamodb table
 
 ## Data Modeling Process
 - Undersatnd your application
