@@ -1,4 +1,4 @@
-# DynamoDB Datamodeling
+# DynamoDB Data Modeling
 ## Introduction 
 In this Repo we understand the different methods to modal relational data in to the dynamodb table
 
